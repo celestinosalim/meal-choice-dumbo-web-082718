@@ -3,5 +3,4 @@
 
 def meal_choice(type = 'meat')
     type
-binding.pry
 end
